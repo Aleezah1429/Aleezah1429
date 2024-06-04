@@ -49,7 +49,7 @@ I am a passionate Web & Mobile App Developer with over 2 years of experience in 
 
 - **Email:** [aleezahikram1429@gmail.com](mailto:aleezahikram1429@gmail.com)
 - **LinkedIn:** [Aleezah Ikram](https://linkedin.com/in/aleezah-ikram)
-- **Portfolio:** [🌐](https://aleezah-portfolio.vercel.app/)
+- **Portfolio:** [Aleezah Ikram Portfolio](https://aleezah-portfolio.vercel.app/)
 
 ## 💬 Let's Connect!
 
@@ -59,9 +59,9 @@ Feel free to reach out if you have any questions, want to collaborate on a proje
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aleezah1429&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleezah1429&layout=compact&theme=radical)
 
 ---
 
