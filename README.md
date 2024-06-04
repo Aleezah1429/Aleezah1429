@@ -5,7 +5,7 @@ I am a passionate Web & Mobile App Developer with over 2 years of experience in 
 ## 🛠️ Technologies & Tools
 
 - **Full Stack:**
-  - [MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
   - ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) 
   - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
