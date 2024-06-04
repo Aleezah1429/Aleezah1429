@@ -5,7 +5,7 @@ I am a passionate Web & Mobile App Developer with over 2 years of experience in 
 ## 🛠️ Technologies & Tools
 
 - **Full Stack:**
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+  - [MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
   - ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) 
   - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -42,7 +42,6 @@ I am a passionate Web & Mobile App Developer with over 2 years of experience in 
   - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
   - ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
   - ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   - ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-00BFFF?style=flat-square&logo=api&logoColor=white)
   - ![GraphQL APIs](https://img.shields.io/badge/-GraphQL_APIs-E10098?style=flat-square&logo=graphql&logoColor=white)
   - ![Fabric JS](https://img.shields.io/badge/-Fabric_JS-000000?style=flat-square&logo=fabric.js&logoColor=white)
