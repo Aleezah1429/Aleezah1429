@@ -57,16 +57,15 @@ I am a passionate Web & Mobile App Developer with over 2 years of experience in 
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aleezah1429&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aleezah1429&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleezah1429&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleezah1429&layout=compact&theme=radical&count_private=true)
 
 
 ## 💬 Let's Connect!
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to say hi!
 
----
 ---
 
 Thanks for visiting my profile! 😊
