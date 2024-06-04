@@ -5,45 +5,49 @@ I am a passionate Web & Mobile App Developer with over 2 years of experience in 
 ## 🛠️ Technologies & Tools
 
 - **Full Stack:**
-  - MERN Stack (MongoDB, Express, React, Node.js)
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+  - ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) 
+  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 - **Frontend:**
-  - React JS
-  - Next JS
-  - React Native
-  - Typescript
-  - HTML5
-  - CSS3
-  - JavaScript (ES6+)
+  - ![React JS](https://img.shields.io/badge/-React_JS-61DAFB?style=flat-square&logo=react&logoColor=black)
+  - ![Next JS](https://img.shields.io/badge/-Next_JS-000000?style=flat-square&logo=next.js&logoColor=white)
+  - ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+  - ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 - **Backend:**
-  - Node.js
-  - Express
-  - Python
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  - ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 - **Databases:**
-  - MongoDB
-  - Firebase
-  - MySQL
-  - GraphQL
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 - **UI Libraries:**
-  - Material-UI
-  - Chakra UI
-  - Ant Design
-  - Bootstrap
-  - Tailwind CSS
+  - ![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+  - ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
+  - ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+  - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 - **Other:**
-  - Git & GitHub
-  - JIRA
-  - Redux Toolkit
-  - Docker
-  - RESTful APIs
-  - GraphQL APIs
-  - Fabric JS
-  - Canva JS
-  - AppGyver
+  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  - ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+  - ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  - ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-00BFFF?style=flat-square&logo=api&logoColor=white)
+  - ![GraphQL APIs](https://img.shields.io/badge/-GraphQL_APIs-E10098?style=flat-square&logo=graphql&logoColor=white)
+  - ![Fabric JS](https://img.shields.io/badge/-Fabric_JS-000000?style=flat-square&logo=fabric.js&logoColor=white)
+  - ![Canva JS](https://img.shields.io/badge/-Canva_JS-00C4CC?style=flat-square&logo=canva&logoColor=white)
+  - ![AppGyver](https://img.shields.io/badge/-AppGyver-FF7E00?style=flat-square&logo=appgyver&logoColor=white)
 
 ## 📫 How to reach me
 
