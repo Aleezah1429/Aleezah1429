@@ -49,7 +49,7 @@ I am a passionate Web & Mobile App Developer with over 2 years of experience in 
 
 - **Email:** [aleezahikram1429@gmail.com](mailto:aleezahikram1429@gmail.com)
 - **LinkedIn:** [Aleezah Ikram](https://linkedin.com/in/aleezah-ikram)
-- **Portfolio:** [[Aleezah Ikram Portfolio Website](https://aleezah-portfolio.vercel.app/)
+- **Portfolio:** [🌐](https://aleezah-portfolio.vercel.app/)
 
 ## 💬 Let's Connect!
 
