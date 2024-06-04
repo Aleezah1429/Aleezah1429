@@ -50,9 +50,10 @@ I am a passionate Web & Mobile App Developer with over 2 years of experience in 
 
 ## 📫 How to reach me
 
-- **Email:** [aleezahikram1429@gmail.com](mailto:aleezahikram1429@gmail.com)
-- **LinkedIn:** [Aleezah Ikram](https://linkedin.com/in/aleezah-ikram)
-- **Portfolio:** [Aleezah Ikram Portfolio](https://aleezah-portfolio.vercel.app/)
+- **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aleezahikram1429@gmail.com)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleezah-ikram)
+- **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://aleezah-portfolio.vercel.app/)
+
 
 ## 💬 Let's Connect!
 
