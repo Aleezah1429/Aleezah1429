@@ -1,6 +1,6 @@
 # Hi there, This is Aleezah Ikram! 👋
 
-I am a passionate Web & Mobile App Developer with over 2 years of experience in building dynamic and responsive applications. My expertise lies in the following technologies:
+I am a passionate Web & Mobile App Developer with over 3 years of experience in building dynamic and responsive applications. My expertise lies in the following technologies:
 
 ## 🛠️ Technologies & Tools
 
